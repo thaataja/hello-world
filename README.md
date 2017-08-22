@@ -1,2 +1,3 @@
 # hello-world
-test example of public repo
+
+Public repository of trying out the github functionality.
